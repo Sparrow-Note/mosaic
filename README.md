@@ -53,7 +53,7 @@ Build a cloud-native, event-driven, microservices-based retail ecosystem capable
 
 | Document             | Description                  |
 | -------------------- | ---------------------------- |
-| Business Context     | Enterprise business overview |
+| [Business Context](docs/business-architecture/business-context.md)    | Enterprise business overview |
 | Capability Map       | Business capabilities        |
 | Value Streams        | End-to-end customer journeys |
 | Stakeholder Analysis | Stakeholder mapping          |
