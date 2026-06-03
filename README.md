@@ -49,11 +49,11 @@ Build a cloud-native, event-driven, microservices-based retail ecosystem capable
 
 # 📚 Architecture Documentation Structure
 
-## 1. Business Architecture
+## [1. Business Architecture](docs/business-architecture/business-architecture.md)
 
 | Document             | Description                  |
 | -------------------- | ---------------------------- |
-| [Business Context](docs/business-architecture/business-context.md)    | Enterprise business overview |
+| Business Context     | Enterprise business overview |
 | Capability Map       | Business capabilities        |
 | Value Streams        | End-to-end customer journeys |
 | Stakeholder Analysis | Stakeholder mapping          |
