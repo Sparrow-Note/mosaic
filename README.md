@@ -68,7 +68,7 @@ Build a cloud-native, event-driven, microservices-based retail ecosystem capable
 | Document                    | Description                      |
 | --------------------------- | -------------------------------- |
 | [Functional Requirements](docs/requirements/functional-requirements.md)     | Business functions               |
-| Non-Functional Requirements | Quality attributes               |
+| [Non-Functional Requirements](docs/requirements/non-functional-requirements.md) | Quality attributes               |
 | Assumptions                 | Project assumptions              |
 | Constraints                 | Business & technical constraints |
 
