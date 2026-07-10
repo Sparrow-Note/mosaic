@@ -80,7 +80,7 @@ Build a cloud-native, event-driven, microservices-based retail ecosystem capable
 
 | Document                | Description          |
 | ----------------------- | -------------------- |
-| Architecture Principles | Enterprise standards |
+| [Architecture Principles](docs/enterprise-architecture/global-retail-enterprise-architecture-principles.md) | Enterprise standards |
 | Architecture Decisions  | Strategic decisions  |
 | Domain Model            | Business domains     |
 | Technology Strategy     | Technology roadmap   |
