@@ -76,7 +76,7 @@ Build a cloud-native, event-driven, microservices-based retail ecosystem capable
 
 ---
 
-## 3. Enterprise Architecture
+## [3. Enterprise Architecture](docs/business-architecture/business-architecture.md)
 
 | Document                | Description          |
 | ----------------------- | -------------------- |
